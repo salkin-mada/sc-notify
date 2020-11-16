@@ -1,0 +1,11 @@
+[package]
+name = "sc-notify"
+version = "0.1.0"
+authors = ["salkin-mada <adam@oddodd.org>"]
+edition = "2018"
+
+[dependencies]
+notify-rust = "4.0.0"
+image = "0.23.11"
+dbus = "0.9.0"
+clap = "2.33.3"
